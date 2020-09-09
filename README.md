@@ -8,5 +8,7 @@ Movie apisini kullanarak filmleri listeleyebildiğimiz basit bir uygulama yaptı
 - DataBinding
 - Navigation
 - Coroutines
+- RxJava
+- Room
 - Retrofit
 - Glide
